@@ -139,10 +139,8 @@ https://instagram.com/barvekaromjalindar
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/jayaschool1981-rgb/jayaschool1981-rgb/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0ff0fc&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/jayaschool1981-rgb/jayaschool1981-rgb/output/github-contribution-grid-snake.svg" />
 </p>
