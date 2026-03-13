@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Building+Real+World+AI+Systems" />
+</p>
+
 # 👋 Hi, I'm Om Barvekar
 
 🚀 **AI Engineer | Full-Stack Developer | Machine Learning Enthusiast**
@@ -13,7 +17,12 @@ Building intelligent systems that solve **real-world problems using AI, Cloud, a
 * 🏆 **Recognized at IIT Delhi – AI Career Summit**
 * ⚙️ Building **AI, IoT, and Cloud-Powered Systems**
 * 🌎 Based in **Pune, India**
+## 📊 GitHub Statistics
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayaschool1981-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaschool1981-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 # 🏆 Achievements
@@ -57,6 +66,13 @@ IoT + ML crash detection with **GPS/GSM alerts**
 ---
 
 # 🧠 Tech Stack
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,react,nextjs,nodejs,express,mongodb,docker,aws,git,linux,flask,java" />
+
+</p>
 
 ### AI & ML
 
@@ -107,3 +123,6 @@ https://instagram.com/barvekaromjalindar
 ---
 
 ⭐ *Always building. Always learning.*
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/jayaschool1981-rgb/jayaschool1981-rgb/blob/output/github-contribution-grid-snake.svg)
